@@ -51,7 +51,7 @@ body {
 }
 
 a {
-	color: #bb0000;
+	color: #f59842;
 	-webkit-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
@@ -59,7 +59,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-	color: #bb0000;
+	color: #f59842;
 	outline: none;
 	text-decoration: none;
 }
@@ -83,17 +83,17 @@ figure {
 
 ::-webkit-selection {
 	color: #fff;
-	background: #bb0000;
+	background: #f59842;
 }
 
 ::-moz-selection {
 	color: #fff;
-	background: #bb0000;
+	background: #f59842;
 }
 
 ::selection {
 	color: #fff;
-	background: #bb0000;
+	background: #f59842;
 }
 
 #fh5co-header,
@@ -112,7 +112,7 @@ figure {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: rgba(187, 0, 0, 0.9);
+	background: rgba(245, 152, 66, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -236,7 +236,7 @@ figure {
 }
 
 #fh5co-features {
-	background: #bb0000;
+	background: #f59842;
 }
 #fh5co-features h2 {
 	color: #fff;
@@ -271,7 +271,7 @@ figure {
 	display: table-cell;
 	vertical-align: middle;
 	height: 100px;
-	color: #bb0000 !important;
+	color: #f59842 !important;
 }
 #fh5co-features .feature-left .feature-copy {
 	width: 100%;
@@ -322,7 +322,7 @@ figure {
 
 .fh5co-bg-dark {
 	background: #2f3c4f;
-	background: #bb0000;
+	background: #f59842;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
 	color: #fff !important;
@@ -379,7 +379,7 @@ figure {
 	display: inline-block;
 	zoom: 1;
 	*display: inline;
-	color: #bb0000;
+	color: #f59842;
 	padding-left: 10px;
 	padding-right: 10px;
 }
@@ -416,7 +416,7 @@ figure {
 	font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-	background: #bb0000;
+	background: #f59842;
 }
 
 .fh5co-heading {
@@ -547,7 +547,7 @@ figure {
 	top: 40px;
 	left: 50%;
 	margin-left: -21px;
-	background-color: #bb0000;
+	background-color: #f59842;
 	z-index: 100;
 	display: table;
 	-webkit-border-radius: 50%;
@@ -828,7 +828,7 @@ figure {
 	height: 54px;
 	border: none !important;
 	background: #fff;
-	color: #bb0000;
+	color: #f59842;
 	font-size: 16px;
 	text-transform: uppercase;
 	font-weight: 400;
@@ -1145,9 +1145,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-	background: #bb0000;
+	background: #f59842;
 	color: #fff;
-	border: 2px solid #bb0000;
+	border: 2px solid #f59842;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -1157,13 +1157,13 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
 	background: transparent;
-	color: #bb0000;
-	border: 2px solid #bb0000;
+	color: #f59842;
+	border: 2px solid #f59842;
 }
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-	background: #bb0000;
+	background: #f59842;
 	color: #fff;
 }
 
@@ -1312,7 +1312,7 @@ input[type="text"] {
 .form-control:focus {
 	outline: none;
 	box-shadow: none;
-	border-color: #bb0000;
+	border-color: #f59842;
 }
 
 .row-pb-md {
